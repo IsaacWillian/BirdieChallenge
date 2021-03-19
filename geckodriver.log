@@ -1,0 +1,694 @@
+1616126648401	geckodriver	INFO	Listening on 127.0.0.1:38925
+1616126649407	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecovqQa"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1616126651849	Marionette	INFO	Listening on port 45323
+1616126651943	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616126664468	Marionette	INFO	Stopped listening on port 45323
+1616127736408	geckodriver	INFO	Listening on 127.0.0.1:51577
+1616127770511	geckodriver	INFO	Listening on 127.0.0.1:45789
+1616127868171	geckodriver	INFO	Listening on 127.0.0.1:37571
+1616127893064	geckodriver	INFO	Listening on 127.0.0.1:53523
+1616127985032	geckodriver	INFO	Listening on 127.0.0.1:44301
+1616128021843	geckodriver	INFO	Listening on 127.0.0.1:53633
+1616128665419	geckodriver	INFO	Listening on 127.0.0.1:39319
+1616128670851	geckodriver	INFO	Listening on 127.0.0.1:57477
+1616128679322	geckodriver	INFO	Listening on 127.0.0.1:44521
+1616128907263	geckodriver	INFO	Listening on 127.0.0.1:36815
+1616128907268	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileehgewo"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: QuotaExceededError: The current transaction exceeded its quota limitations.
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1616128909882	Marionette	INFO	Listening on port 41525
+1616128910006	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+console.error: SearchSettings: "_write: Could not write to settings file:" (new Error("", "(unknown module)"))
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 893: Error: Error(s) encountered during statement execution: database or disk is full
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: QuotaExceededError: The current transaction exceeded its quota limitations.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: Object
+1616128934043	Marionette	INFO	Stopped listening on port 41525
+1616128935824	geckodriver	INFO	Listening on 127.0.0.1:34355
+1616128956625	geckodriver	INFO	Listening on 127.0.0.1:55537
+1616128956629	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelweZfU"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: QuotaExceededError: The current transaction exceeded its quota limitations.
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1616128959075	Marionette	INFO	Listening on port 40681
+1616128959191	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+console.error: SearchSettings: "_write: Could not write to settings file:" (new Error("", "(unknown module)"))
+1616128960341	Marionette	INFO	Stopped listening on port 40681
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.mercadolivre.com.br/xiaomi-redmi-note-7-48-mpx-dual-sim-32-gb-neptune-blue-3-gb-ram/p/MLB14141081, line 4: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: Object
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 893: Error: Error(s) encountered during statement execution: database or disk is full
+1616128968838	geckodriver	INFO	Listening on 127.0.0.1:35337
+1616128968843	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUIMsVs"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: QuotaExceededError: The current transaction exceeded its quota limitations.
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1616128971317	Marionette	INFO	Listening on port 33337
+1616128971388	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+console.error: SearchSettings: "_write: Could not write to settings file:" (new Error("", "(unknown module)"))
+1616128972484	Marionette	INFO	Stopped listening on port 33337
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.mercadolivre.com.br/xiaomi-redmi-note-7-48-mpx-dual-sim-32-gb-neptune-blue-3-gb-ram/p/MLB14141081, line 4: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 893: Error: Error(s) encountered during statement execution: database or disk is full
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: Object
+1616128983523	geckodriver	INFO	Listening on 127.0.0.1:51355
+1616128983527	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAfyRLo"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: QuotaExceededError: The current transaction exceeded its quota limitations.
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1616128986193	Marionette	INFO	Listening on port 44747
+1616128986267	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+console.error: SearchSettings: "_write: Could not write to settings file:" (new Error("", "(unknown module)"))
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 893: Error: Error(s) encountered during statement execution: database or disk is full
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: QuotaExceededError: The current transaction exceeded its quota limitations.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: Object
+1616129006864	Marionette	INFO	Stopped listening on port 44747
+1616129016751	geckodriver	INFO	Listening on 127.0.0.1:37103
+1616129016755	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile38TQMW"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: QuotaExceededError: The current transaction exceeded its quota limitations.
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1616129019302	Marionette	INFO	Listening on port 42395
+1616129019386	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+console.error: SearchSettings: "_write: Could not write to settings file:" (new Error("", "(unknown module)"))
+1616129020910	Marionette	INFO	Stopped listening on port 42395
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 893: Error: Error(s) encountered during statement execution: database or disk is full
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: Object
+1616129405828	geckodriver	INFO	Listening on 127.0.0.1:49717
+1616129405833	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVxi709"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: QuotaExceededError: The current transaction exceeded its quota limitations.
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1616129408403	Marionette	INFO	Listening on port 33775
+1616129408466	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+console.error: SearchSettings: "_write: Could not write to settings file:" (new Error("", "(unknown module)"))
+1616129410110	Marionette	INFO	Stopped listening on port 33775
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: Object
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 893: Error: Error(s) encountered during statement execution: database or disk is full
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: Object
+1616129452327	geckodriver	INFO	Listening on 127.0.0.1:50519
+1616129452331	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilep8MC3E"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: QuotaExceededError: The current transaction exceeded its quota limitations.
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1616129454943	Marionette	INFO	Listening on port 42655
+1616129455062	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+console.error: SearchSettings: "_write: Could not write to settings file:" (new Error("", "(unknown module)"))
+1616129456772	Marionette	INFO	Stopped listening on port 42655
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: QuotaExceededError: The current transaction exceeded its quota limitations.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 893: Error: Error(s) encountered during statement execution: database or disk is full
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: Object
+1616129866868	geckodriver	INFO	Listening on 127.0.0.1:36391
+1616129866872	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezy7V70"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: QuotaExceededError: The current transaction exceeded its quota limitations.
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  QuotaExceededError
+[ERROR glean] Failed to initialize Glean: An I/O error occurred: Não há espaço disponível no dispositivo (os error 28)
+1616129869337	Marionette	INFO	Listening on port 42937
+1616129869407	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: SearchSettings: "_write: Could not write to settings file:" (new Error("", "(unknown module)"))
+1616129871237	Marionette	INFO	Stopped listening on port 42937
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: QuotaExceededError: The current transaction exceeded its quota limitations.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: Object
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 893: Error: Error(s) encountered during statement execution: database or disk is full
+1616129910999	geckodriver	INFO	Listening on 127.0.0.1:36537
+1616129911002	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileH9EmOZ"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: QuotaExceededError: The current transaction exceeded its quota limitations.
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  QuotaExceededError
+[ERROR glean] Failed to initialize Glean: An I/O error occurred: Não há espaço disponível no dispositivo (os error 28)
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+1616129913458	Marionette	INFO	Listening on port 44855
+1616129913541	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+console.error: SearchSettings: "_write: Could not write to settings file:" (new Error("", "(unknown module)"))
+1616129915228	Marionette	INFO	Stopped listening on port 44855
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: QuotaExceededError: The current transaction exceeded its quota limitations.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 893: Error: Error(s) encountered during statement execution: database or disk is full
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: Object
+1616129921168	geckodriver	INFO	Listening on 127.0.0.1:59503
+1616129921172	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileE0FvRq"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: QuotaExceededError: The current transaction exceeded its quota limitations.
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  QuotaExceededError
+[ERROR glean] Failed to initialize Glean: An I/O error occurred: Não há espaço disponível no dispositivo (os error 28)
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+1616129923746	Marionette	INFO	Listening on port 40727
+1616129923819	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+console.error: SearchSettings: "_write: Could not write to settings file:" (new Error("", "(unknown module)"))
+1616129925361	Marionette	INFO	Stopped listening on port 40727
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 893: Error: Error(s) encountered during statement execution: database or disk is full
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: Object
+1616130076575	geckodriver	INFO	Listening on 127.0.0.1:58161
+1616130076579	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilendjJm8"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:23845): GLib-GObject-CRITICAL **: 02:01:17.500: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:23868): GLib-GObject-CRITICAL **: 02:01:17.611: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: QuotaExceededError: The current transaction exceeded its quota limitations.
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  QuotaExceededError
+[ERROR glean] Failed to initialize Glean: An I/O error occurred: Não há espaço disponível no dispositivo (os error 28)
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+1616130078480	Marionette	INFO	Listening on port 41999
+1616130078506	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:23940): GLib-GObject-CRITICAL **: 02:01:18.528: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+console.error: SearchSettings: "_write: Could not write to settings file:" (new Error("", "(unknown module)"))
+1616130079876	Marionette	INFO	Stopped listening on port 41999
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: Object
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: QuotaExceededError: The current transaction exceeded its quota limitations.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: Object
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 893: Error: Error(s) encountered during statement execution: database or disk is full
+1616130175858	geckodriver	INFO	Listening on 127.0.0.1:42937
+1616130175862	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNHgK3I"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:24294): GLib-GObject-CRITICAL **: 02:02:56.873: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:24317): GLib-GObject-CRITICAL **: 02:02:56.993: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: QuotaExceededError: The current transaction exceeded its quota limitations.
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  QuotaExceededError
+[ERROR glean] Failed to initialize Glean: An I/O error occurred: Não há espaço disponível no dispositivo (os error 28)
+1616130177991	Marionette	INFO	Listening on port 42213
+1616130178029	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:24393): GLib-GObject-CRITICAL **: 02:02:58.067: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.error: SearchSettings: "_write: Could not write to settings file:" (new Error("", "(unknown module)"))
+1616130179343	Marionette	INFO	Stopped listening on port 42213
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: QuotaExceededError: The current transaction exceeded its quota limitations.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: Object
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 893: Error: Error(s) encountered during statement execution: database or disk is full
+1616130195158	geckodriver	INFO	Listening on 127.0.0.1:45671
+1616130195161	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLSuJSi"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:24545): GLib-GObject-CRITICAL **: 02:03:16.126: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:24566): GLib-GObject-CRITICAL **: 02:03:16.238: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: QuotaExceededError: The current transaction exceeded its quota limitations.
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  QuotaExceededError
+[ERROR glean] Failed to initialize Glean: An I/O error occurred: Não há espaço disponível no dispositivo (os error 28)
+1616130197110	Marionette	INFO	Listening on port 43299
+1616130197203	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:24640): GLib-GObject-CRITICAL **: 02:03:17.253: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.error: SearchSettings: "_write: Could not write to settings file:" (new Error("", "(unknown module)"))
+1616130198714	Marionette	INFO	Stopped listening on port 43299
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: QuotaExceededError: The current transaction exceeded its quota limitations.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: Object
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 893: Error: Error(s) encountered during statement execution: database or disk is full
+1616130341182	geckodriver	INFO	Listening on 127.0.0.1:56243
+1616130341186	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileS3fd3k"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:24910): GLib-GObject-CRITICAL **: 02:05:42.144: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:24931): GLib-GObject-CRITICAL **: 02:05:42.254: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: QuotaExceededError: The current transaction exceeded its quota limitations.
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  QuotaExceededError
+[ERROR glean] Failed to initialize Glean: An I/O error occurred: Não há espaço disponível no dispositivo (os error 28)
+1616130343212	Marionette	INFO	Listening on port 32817
+1616130343319	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:25010): GLib-GObject-CRITICAL **: 02:05:43.356: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.error: SearchSettings: "_write: Could not write to settings file:" (new Error("", "(unknown module)"))
+1616130344604	Marionette	INFO	Stopped listening on port 32817
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: QuotaExceededError: The current transaction exceeded its quota limitations.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 716: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: Object
+1616131188443	geckodriver	INFO	Listening on 127.0.0.1:58051
+1616131188447	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJ554E8"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:26304): GLib-GObject-CRITICAL **: 02:19:49.382: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:26330): GLib-GObject-CRITICAL **: 02:19:49.521: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1616131190588	Marionette	INFO	Listening on port 40731
+
+(/usr/lib/firefox/firefox:26401): GLib-GObject-CRITICAL **: 02:19:50.661: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616131190685	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616131346655	geckodriver	INFO	Listening on 127.0.0.1:46387
+1616131346659	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilev6xPIM"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:26727): GLib-GObject-CRITICAL **: 02:22:27.613: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:26748): GLib-GObject-CRITICAL **: 02:22:27.730: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1616131348779	Marionette	INFO	Listening on port 43587
+
+(/usr/lib/firefox/firefox:26828): GLib-GObject-CRITICAL **: 02:22:28.840: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616131348909	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  Message: QuotaExceededError: IndexedDB: security-state/intermediates importChanges() IndexedDB:  importChanges() in security-state/intermediates The current transaction exceeded its quota limitations.
+console.error: services.settings: 
+  Message: InvalidStateError: IndexedDB: security-state/cert-revocations importChanges() IndexedDB: collections, timestamps, records importChanges() in security-state/cert-revocations A mutation operation was attempted on a database that did not allow mutations.
+  Stack:
+    importChanges/<@resource://services-settings/Database.jsm:116:27
+executeIDB/promise<@resource://services-settings/IDBHelpers.jsm:134:16
+executeIDB@resource://services-settings/IDBHelpers.jsm:98:17
+executeIDB@resource://services-settings/Database.jsm:366:45
+
+console.error: services.settings: 
+  Message: QuotaExceededError: IndexedDB: main/normandy-recipes-capabilities importChanges() IndexedDB:  importChanges() in main/normandy-recipes-capabilities The current transaction exceeded its quota limitations.
+console.error: services.settings: 
+  Message: InvalidStateError: IndexedDB: blocklists/addons-bloomfilters importChanges() IndexedDB: collections, timestamps, records importChanges() in blocklists/addons-bloomfilters A mutation operation was attempted on a database that did not allow mutations.
+  Stack:
+    importChanges/<@resource://services-settings/Database.jsm:116:27
+executeIDB/promise<@resource://services-settings/IDBHelpers.jsm:134:16
+executeIDB@resource://services-settings/IDBHelpers.jsm:98:17
+executeIDB@resource://services-settings/Database.jsm:366:45
+
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+console.error: services.settings: 
+  Message: QuotaExceededError: IndexedDB: main/top-sites importChanges() IndexedDB:  importChanges() in main/top-sites The current transaction exceeded its quota limitations.
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+console.error: services.settings: 
+  Message: InvalidStateError: IndexedDB: security-state/onecrl importChanges() IndexedDB: collections, timestamps, records importChanges() in security-state/onecrl A mutation operation was attempted on a database that did not allow mutations.
+  Stack:
+    importChanges/<@resource://services-settings/Database.jsm:116:27
+executeIDB/promise<@resource://services-settings/IDBHelpers.jsm:134:16
+executeIDB@resource://services-settings/IDBHelpers.jsm:98:17
+executeIDB@resource://services-settings/Database.jsm:366:45
+
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+console.info: MINT: main/search-config update being skipped
+console.error: services.settings: 
+  Message: QuotaExceededError: IndexedDB: main/search-config importChanges() IndexedDB:  importChanges() in main/search-config The current transaction exceeded its quota limitations.
+console.error: services.settings: 
+  Message: InvalidStateError: IndexedDB: main/search-telemetry importChanges() IndexedDB: collections, timestamps, records importChanges() in main/search-telemetry A mutation operation was attempted on a database that did not allow mutations.
+  Stack:
+    importChanges/<@resource://services-settings/Database.jsm:116:27
+executeIDB/promise<@resource://services-settings/IDBHelpers.jsm:134:16
+executeIDB@resource://services-settings/IDBHelpers.jsm:98:17
+executeIDB@resource://services-settings/Database.jsm:366:45
+
+console.error: services.settings: 
+  Message: QuotaExceededError: IndexedDB: main/pioneer-study-addons-v1 importChanges() IndexedDB:  importChanges() in main/pioneer-study-addons-v1 The current transaction exceeded its quota limitations.
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+console.error: services.settings: 
+  Message: InvalidStateError: IndexedDB: main/url-classifier-skip-urls importChanges() IndexedDB: collections, timestamps, records importChanges() in main/url-classifier-skip-urls A mutation operation was attempted on a database that did not allow mutations.
+  Stack:
+    importChanges/<@resource://services-settings/Database.jsm:116:27
+executeIDB/promise<@resource://services-settings/IDBHelpers.jsm:134:16
+executeIDB@resource://services-settings/IDBHelpers.jsm:98:17
+executeIDB@resource://services-settings/Database.jsm:366:45
+
+console.error: services.settings: 
+  Message: QuotaExceededError: IndexedDB: blocklists/gfx importChanges() IndexedDB:  importChanges() in blocklists/gfx The current transaction exceeded its quota limitations.
+console.error: services.settings: 
+  Message: InvalidStateError: IndexedDB: main/hijack-blocklists importChanges() IndexedDB: collections, timestamps, records importChanges() in main/hijack-blocklists A mutation operation was attempted on a database that did not allow mutations.
+  Stack:
+    importChanges/<@resource://services-settings/Database.jsm:116:27
+executeIDB/promise<@resource://services-settings/IDBHelpers.jsm:134:16
+executeIDB@resource://services-settings/IDBHelpers.jsm:98:17
+executeIDB@resource://services-settings/Database.jsm:366:45
+
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+console.error: services.settings: 
+  Message: QuotaExceededError: IndexedDB: blocklists/plugins importChanges() IndexedDB:  importChanges() in blocklists/plugins The current transaction exceeded its quota limitations.
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+console.error: services.settings: 
+  Message: InvalidStateError: IndexedDB: main/password-recipes importChanges() IndexedDB: collections, timestamps, records importChanges() in main/password-recipes A mutation operation was attempted on a database that did not allow mutations.
+  Stack:
+    importChanges/<@resource://services-settings/Database.jsm:116:27
+executeIDB/promise<@resource://services-settings/IDBHelpers.jsm:134:16
+executeIDB@resource://services-settings/IDBHelpers.jsm:98:17
+executeIDB@resource://services-settings/Database.jsm:366:45
+
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+console.error: services.settings: 
+  Message: QuotaExceededError: IndexedDB: main/search-default-override-allowlist importChanges() IndexedDB:  importChanges() in main/search-default-override-allowlist The current transaction exceeded its quota limitations.
+console.error: services.settings: 
+  Message: InvalidStateError: IndexedDB: main/public-suffix-list importChanges() IndexedDB: collections, timestamps, records importChanges() in main/public-suffix-list A mutation operation was attempted on a database that did not allow mutations.
+  Stack:
+    importChanges/<@resource://services-settings/Database.jsm:116:27
+executeIDB/promise<@resource://services-settings/IDBHelpers.jsm:134:16
+executeIDB@resource://services-settings/IDBHelpers.jsm:98:17
+executeIDB@resource://services-settings/Database.jsm:366:45
+
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+console.error: services.settings: 
+  Message: QuotaExceededError: IndexedDB: main/language-dictionaries importChanges() IndexedDB:  importChanges() in main/language-dictionaries The current transaction exceeded its quota limitations.
+console.error: services.settings: 
+  Message: InvalidStateError: IndexedDB: main/anti-tracking-url-decoration importChanges() IndexedDB: collections, timestamps, records importChanges() in main/anti-tracking-url-decoration A mutation operation was attempted on a database that did not allow mutations.
+  Stack:
+    importChanges/<@resource://services-settings/Database.jsm:116:27
+executeIDB/promise<@resource://services-settings/IDBHelpers.jsm:134:16
+executeIDB@resource://services-settings/IDBHelpers.jsm:98:17
+executeIDB@resource://services-settings/Database.jsm:366:45
+
+console.error: services.settings: 
+  Message: QuotaExceededError: IndexedDB: main/sites-classification importChanges() IndexedDB:  importChanges() in main/sites-classification The current transaction exceeded its quota limitations.
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+console.error: services.settings: 
+  Message: InvalidStateError: IndexedDB: pinning/pins importChanges() IndexedDB: collections, timestamps, records importChanges() in pinning/pins A mutation operation was attempted on a database that did not allow mutations.
+  Stack:
+    importChanges/<@resource://services-settings/Database.jsm:116:27
+executeIDB/promise<@resource://services-settings/IDBHelpers.jsm:134:16
+executeIDB@resource://services-settings/IDBHelpers.jsm:98:17
+executeIDB@resource://services-settings/Database.jsm:366:45
+
+1616131484742	geckodriver	INFO	Listening on 127.0.0.1:54343
+JavaScript error: , line 0: QuotaExceededError: The current transaction exceeded its quota limitations.
+1616131508590	geckodriver	INFO	Listening on 127.0.0.1:60103
+1616131508630	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehQ4kjd"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:27168): GLib-GObject-CRITICAL **: 02:25:10.245: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:27194): GLib-GObject-CRITICAL **: 02:25:10.429: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1616131511772	Marionette	INFO	Listening on port 43605
+
+(/usr/lib/firefox/firefox:27266): GLib-GObject-CRITICAL **: 02:25:11.845: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616131511878	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616131513699	Marionette	INFO	Stopped listening on port 43605
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofilehQ4kjd/protections.sqlite
+1616131514372	geckodriver	INFO	Listening on 127.0.0.1:47769
+1616131514377	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAEFXjZ"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:27404): GLib-GObject-CRITICAL **: 02:25:16.038: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:27430): GLib-GObject-CRITICAL **: 02:25:16.225: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1616131517577	Marionette	INFO	Listening on port 38861
+1616131517625	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:27505): GLib-GObject-CRITICAL **: 02:25:17.634: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616131519551	Marionette	INFO	Stopped listening on port 38861
+1616131520170	geckodriver	INFO	Listening on 127.0.0.1:57925
+1616131520175	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUrQYxc"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:27639): GLib-GObject-CRITICAL **: 02:25:21.712: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:27662): GLib-GObject-CRITICAL **: 02:25:21.883: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1616131523179	Marionette	INFO	Listening on port 34551
+1616131523230	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:27737): GLib-GObject-CRITICAL **: 02:25:23.242: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616131525538	Marionette	INFO	Stopped listening on port 34551
+1616131526206	geckodriver	INFO	Listening on 127.0.0.1:57169
+1616131526211	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezCwzXN"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:27873): GLib-GObject-CRITICAL **: 02:25:27.731: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:27896): GLib-GObject-CRITICAL **: 02:25:27.908: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1616131529243	Marionette	INFO	Listening on port 46215
+
+(/usr/lib/firefox/firefox:27972): GLib-GObject-CRITICAL **: 02:25:29.302: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616131529358	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616131531268	Marionette	INFO	Stopped listening on port 46215
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofilezCwzXN/protections.sqlite
+1616131531934	geckodriver	INFO	Listening on 127.0.0.1:34385
+1616131531939	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileITouWX"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:28104): GLib-GObject-CRITICAL **: 02:25:33.444: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:28125): GLib-GObject-CRITICAL **: 02:25:33.613: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1616131534879	Marionette	INFO	Listening on port 40139
+
+(/usr/lib/firefox/firefox:28200): GLib-GObject-CRITICAL **: 02:25:34.943: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616131534988	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616131536893	Marionette	INFO	Stopped listening on port 40139
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileITouWX/protections.sqlite
+JavaScript error: , line 0: uncaught exception: Object
+console.error: services.settings: 
+  Message: AbortError: IndexedDB: security-state/intermediates getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.
+console.error: services.settings: 
+  Message: AbortError: IndexedDB: security-state/cert-revocations getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+1616131863402	geckodriver	INFO	Listening on 127.0.0.1:51303
+1616131863409	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledUeNXP"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:29155): GLib-GObject-CRITICAL **: 02:31:04.879: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:29178): GLib-GObject-CRITICAL **: 02:31:05.073: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1616131866485	Marionette	INFO	Listening on port 37673
+
+(/usr/lib/firefox/firefox:29254): GLib-GObject-CRITICAL **: 02:31:06.524: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616131866561	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616131868593	Marionette	INFO	Stopped listening on port 37673
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616131869243	geckodriver	INFO	Listening on 127.0.0.1:51885
+1616131869248	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXnrdiR"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:29389): GLib-GObject-CRITICAL **: 02:31:10.789: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:29415): GLib-GObject-CRITICAL **: 02:31:10.978: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1616131872314	Marionette	INFO	Listening on port 45095
+
+(/usr/lib/firefox/firefox:29486): GLib-GObject-CRITICAL **: 02:31:12.358: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616131872400	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616131874149	Marionette	INFO	Stopped listening on port 45095
+1616131874795	geckodriver	INFO	Listening on 127.0.0.1:48281
+1616131874800	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilea76KZq"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:29618): GLib-GObject-CRITICAL **: 02:31:16.374: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:29641): GLib-GObject-CRITICAL **: 02:31:16.558: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1616131877945	Marionette	INFO	Listening on port 46067
+
+(/usr/lib/firefox/firefox:29722): GLib-GObject-CRITICAL **: 02:31:18.001: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616131878052	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616131880010	Marionette	INFO	Stopped listening on port 46067
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofilea76KZq/protections.sqlite
+1616131880653	geckodriver	INFO	Listening on 127.0.0.1:33573
+1616131880659	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUmZLGl"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:29850): GLib-GObject-CRITICAL **: 02:31:22.239: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:29873): GLib-GObject-CRITICAL **: 02:31:22.445: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+Exiting due to channel error.
+Exiting due to channel error.
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
