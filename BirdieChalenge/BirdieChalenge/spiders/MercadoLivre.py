@@ -12,8 +12,7 @@ class MercadolivreSpider(scrapy.Spider):
    
     def start_request(self):
         for url in self.start_urls:
-            yield SplashRequest(url, self.parse, endpoint='render.html',
-                                args = {'wait':0.5},) 
+            yield Request(url, headers=headers)
 
     def parse(self, response):
         l = ItemLoader(BirdiechalengeItem(), response)
