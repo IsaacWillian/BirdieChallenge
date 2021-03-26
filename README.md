@@ -1,3 +1,14 @@
 # BirdieChallenge
 
-### This repository contains the solution for Tecnical Challenge for Data Engineer Positon at Birdie
+### Repositório 
+
+# CONFIGURANDO O AMBIENTE
+
+# EXECUTANDO SCRAPING
+
+# EXECUTANDO API
+
+# ARQUITETURA DA SOLUÇÃO
+
+# DESAFIOS ENCONTRADOS
+

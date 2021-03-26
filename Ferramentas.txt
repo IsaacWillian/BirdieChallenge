@@ -1,0 +1,3 @@
+Scrapy para scraping,tratamento dos dados e inserção no banco de dados 
+MongoDb como banco de dados 
+API com Flask para consulta 
