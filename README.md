@@ -15,6 +15,7 @@
 
 1. Para iniciar o scraping execute o script run.sh
 >$./run.sh
+
 Esse script realizará o download da lista de Urls, agrupa-las por loja e inicia o scraping das paginas utilizando a ferramenta Scrapy.
 
 # EXECUTANDO API
